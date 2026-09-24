@@ -1,1 +1,1 @@
-My resource packs for eaglercraft. Leave them in the .ZIP format for Minecraft to detect it. Also works for vanilla Minecraft. Ill try to figure out if I can put all of these files in a common folder so that can be downloaded.
+
